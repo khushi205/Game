@@ -7,5 +7,5 @@ Game Description: In this version of Simon Says, players must follow the instruc
 2. Tik Tok Toe (Tic-Tac-Toe Twist)
 Game Description: This is a twist on the classic Tic-Tac-Toe game, where players take turns placing either X’s or O’s on a 3x3 grid, aiming to get three in a row horizontally, vertically, or diagonally. But in this version, random events or power-ups can alter the game, making it more unpredictable.
 
-3. Dinosaur Game (Endless Runner)
+4. Dinosaur Game (Endless Runner)
 Game Description: Inspired by Google Chrome’s offline Dinosaur Game, this is an endless runner where the player controls a dinosaur that must jump over obstacles and duck under flying creatures. It tests reaction speed and concentration, with the difficulty increasing the longer the player survives.
