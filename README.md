@@ -1,7 +1,6 @@
 # Game
 For this game project, I’ve combined the concepts of Simon Says, Tik Tok Toe, and the Dinosaur Game (like the one that appears on Google Chrome when offline) into a fun and engaging collection of mini-games.
 
-
 1. Simon Says (Classic Memory Game)
 Game Description: In this version of Simon Says, players must follow the instructions given by "Simon," but only if the instruction begins with the phrase "Simon says." If the instruction is given without this phrase, players must avoid performing the action. The game challenges the player’s memory, attention, and reaction time.
 
