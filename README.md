@@ -4,6 +4,7 @@ For this game project, I’ve combined the concepts of Simon Says, Tik Tok Toe, 
 1. Simon Says (Classic Memory Game)
 Game Description: In this version of Simon Says, players must follow the instructions given by "Simon," but only if the instruction begins with the phrase "Simon says." If the instruction is given without this phrase, players must avoid performing the action. The game challenges the player’s memory, attention, and reaction time.
 
+
 3. Tik Tok Toe (Tic-Tac-Toe Twist)
 Game Description: This is a twist on the classic Tic-Tac-Toe game, where players take turns placing either X’s or O’s on a 3x3 grid, aiming to get three in a row horizontally, vertically, or diagonally. But in this version, random events or power-ups can alter the game, making it more unpredictable.
 
